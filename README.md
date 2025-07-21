@@ -12,7 +12,7 @@ Energy supply companies need to predict peak electricity consumption hours (ATS)
   - Lag features (1h, 2h, 24h, 48h)
   - Rolling statistics
   - Holiday/weekend indicators
-  - Weather integration (optional)
+  - Weather integration
 - **Modeling**: Probability forecasting for 24-hour peaks using XGBoost
 - **Evaluation**: Custom metrics for peak hour accuracy
 
